@@ -3,7 +3,7 @@ title: Portfolio
 subtitle: by beenie.K
 email: vinvin010@kyonggi.ac.kr
 description: Hello, I'm Sung-been Kim who is researching Blockchain and Security <br />in the Security Engineering Lab under the Department of Computer Science, Kyonggi University.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://beenee010.github.io # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
