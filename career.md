@@ -82,7 +82,7 @@ nav-menu: true
 				<h3>컴퓨터공학캡스톤디자인 우수상 수상</h3>
 				<p>
 				<li>Blockchain을 활용한 신원인증 어플리케이션</li>
-				<li>Hyperledger Indy와 Django, Vue.js 활포</li>
+				<li>Hyperledger Indy와 Django, Vue.js 활용</li>
 				<li>WebApp으로 패키징하여 배포</li>
 				</p>
 			</div>
