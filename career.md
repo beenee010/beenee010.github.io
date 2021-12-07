@@ -19,7 +19,8 @@ nav-menu: true
 <h2 id="content">자기소개</h2>
 <div class="row">
 	<div class="2u 12u$(small)" style="text-align: center;">
-		<img src="assets/images/photo01.PNG" >
+		<img src="assets/images/photo01.PNG" style="width: 90%" >
+		<br/>
 	</div>
 	<div class="5u 12u$(small)">
 		<li>2016.03 경기대학교 컴퓨터공학부 입학</li>
@@ -31,7 +32,7 @@ nav-menu: true
 		<li>2022.03 경기대학교 컴퓨터과학과 석사 입학</li>
 	</div>
 	<div class="5u 12u$(small)">
-	<br />
+	<hr />
 		<p>안녕하세요. 저는 경기대학교 컴퓨터과학과 김성빈 입니다. 
 		<br />저는 블록체인과 보안을 연구하고 있습니다. 
 		<br />아래의 사항은 저의 연구 및 수상 실적입니다. 
