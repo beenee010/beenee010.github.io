@@ -12,9 +12,7 @@ show_tile: false
     <img src="assets/images/self01.jpg" style="align-items: center; width: 30%;">
     <img src="assets/images/self02.jpg" style="align-items: center; width: 30%;">    
 </div>        
-<div style="text-align: center; margin-bottom: 30px;">
+<div style="text-align: center; margin-bottom: 30px;" class="inner">
     <h1>Sung-been Kim</h1>
     <h3 style="margin-top: -60px;">(Blockchain Researcher & Developer)</h3>
 </div>
-
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
