@@ -18,9 +18,9 @@ nav-menu: true
 <!-- Content -->
 <h2 id="content">자기소개</h2>
 <div class="row">
-	<div class="2u 12u$(small)" style="text-align: center;">
-		<img src="assets/images/photo01.PNG" style="width: 90%" >
-		<br/>
+	<div class="2u 12u$(small)" style="text-align: center; align-items: center">
+		<img src="assets/images/photo01.PNG" style="width: 85%" >
+		<hr />
 	</div>
 	<div class="5u 12u$(small)">
 		<li>2016.03 경기대학교 컴퓨터공학부 입학</li>
@@ -28,8 +28,8 @@ nav-menu: true
 		<li>2021.07 SW 저작권 등록 (진행중)</li>
 		<li>2021.08 특허 등록 (진행중)</li>
 		<li>2021.12 SW인재페스티벌 경기대학교 대표 참가</li>
-		<li>2022.02 경기대학교 컴퓨터공학부 졸업예정</li>
-		<li>2022.03 경기대학교 컴퓨터과학과 석사 입학</li>
+		<li>2022.02 경기대학교 컴퓨터공학부 졸업 예정</li>
+		<li>2022.03 경기대학교 컴퓨터과학과 석사 입학 예정</li>
 	</div>
 	<div class="5u 12u$(small)">
 	<hr />
@@ -70,6 +70,21 @@ nav-menu: true
 			</div>
 			<div class="4u 12u$(small)" style="text-align: center;">
 				<img src="assets/images/career02.jpg" style="width: 80%;">
+			</div>
+		</div>
+		<hr class="major" />
+		<div class="row">
+			<div class="8u 12u$(small)">
+				<h3>교내 캡스톤 우수작품 금상 수상</h3>
+				<p>
+				<li>Blockchain을 활용한 신원인증 어플리케이션</li>
+				<li>Hyperledger Indy와 Django, Vue.js 활용</li>
+				<li>Blockchain Network - API Server - Web Server</li>
+				<li>전시회를 통해 U-Pass의 동작과정 및 구현 설명</li>
+				</p>
+			</div>
+			<div class="4u 12u$(small)" style="text-align: center;">
+				<img src="assets/images/career05.jpg" style="width: 80%;">
 			</div>
 		</div>
 		<hr class="major" />
