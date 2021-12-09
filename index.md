@@ -12,7 +12,7 @@ show_tile: false
     <img src="assets/images/self01.jpg" style="align-items: center; width: 30%;">
     <img src="assets/images/self02.jpg" style="align-items: center; width: 30%;">    
 </div>        
-<div style="text-align: center;">
+<div style="text-align: center; margin-bottom: 30px;">
     <h1>Sung-been Kim</h1>
     <h3 style="margin-top: -60px;">(Blockchain Researcher & Developer)</h3>
 </div>

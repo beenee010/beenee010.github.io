@@ -2,12 +2,12 @@
 title: Projects
 layout: landing
 description: 'U-PASS, Life-Pet, Voting-Sys'
-image: assets/images/pic07.jpg
+image: assets/images/project01.png
 nav-menu: true
 ---
 
 <!-- Main -->
-<div id="main">
+<div id="main" class="alt">
 
 <!-- One -->
 <section id="one">
@@ -20,7 +20,8 @@ nav-menu: true
 </section>
 
 <!-- Two -->
-<section id="two" class="spotlights">
+<div class="inner">
+<section id="one" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/project01.png %}" alt="" data-position="25% 25%" style="text-align: center" />
@@ -125,18 +126,6 @@ nav-menu: true
 		</div>
 	</section>
 </section>
-
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Massa libero</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
-	</div>
-</section>
+</div>
 
 </div>

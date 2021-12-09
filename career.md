@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: landing
 title: Career
-image: assets/images/pic01.jpg
+image: assets/images/career01.png
 nav-menu: true
 ---
 
@@ -44,7 +44,7 @@ nav-menu: true
 
 <h2>수상 실적</h2>
 <div class="row">
-	<div class="6u 12u$(small)">
+	<div class="6u 12u$(medium)">
 		<div class="row">
 			<div class="8u 12u$(small)">
 				<h3>한국정보기술학회 우수논문 은상 수상</h3>
@@ -59,8 +59,6 @@ nav-menu: true
 			</div>
 		</div>
 		<hr class="major" />
-	</div>
-	<div class="6u 12u$(small)">
 		<div class="row">
 			<div class="8u 12u$(small)">
 				<h3>한국블록체인학회 우수논문상 수상</h3>
@@ -76,7 +74,7 @@ nav-menu: true
 		</div>
 		<hr class="major" />
 	</div>
-	<div class="6u 12u$(small)">
+	<div class="6u$ 12u$(medium)">
 		<div class="row">
 			<div class="8u 12u$(small)">
 				<h3>컴퓨터공학캡스톤디자인 우수상 수상</h3>
@@ -91,8 +89,6 @@ nav-menu: true
 			</div>
 		</div>
 		<hr class="major" />
-	</div>
-	<div class="6u 12u$(small)">
 		<div class="row">
 			<div class="8u 12u$(small)">
 				<h3>교내 캡스톤 우수작품 금상 수상</h3>
@@ -109,7 +105,6 @@ nav-menu: true
 		</div>
 		<hr class="major" />
 	</div>
-
 </div>
 
 
